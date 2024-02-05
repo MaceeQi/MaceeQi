@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 Currently working on developing my [personal website](maceeqi.github.io)!
+🔭 Currently working on developing my [personal website](https://maceeqi.github.io/)!
