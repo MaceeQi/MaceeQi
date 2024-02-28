@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Macee! </br>
+## 👋 Hi, I'm Macee!
 📚 Recently graduated with a M.S. in Computer Science from Northeastern University. </br>
 👩🏻‍💻 Currently working on developing my [personal website](https://maceeqi.github.io/). </br>
 📫 If you have any questions or want to learn more, I'd love to connect with you! 👉 [LinkedIn](https://www.linkedin.com/in/macee-qi/) </br> </br>
